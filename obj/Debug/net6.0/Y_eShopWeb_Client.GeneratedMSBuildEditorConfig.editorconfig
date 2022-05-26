@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = Y_eShopWeb_Client
+build_property.RootNamespace = Y_eShopWeb_Client
+build_property.ProjectDir = D:\Source Code\Udemy\Y_eCommerce\YeShopWebClient\YeComWebClient\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Source Code\Udemy\Y_eCommerce\YeShopWebClient\YeComWebClient
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/Authentication/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/Authentication/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/Authentication/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cUmVkaXJlY3RUb0xvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/Authentication/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/CardDetails/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FyZERldGFpbHNcQ2FydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/CardDetails/OrderConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FyZERldGFpbHNcT3JkZXJDb25maXJtYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/CardDetails/Summary.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FyZERldGFpbHNcU3VtbWFyeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-8ywcw6kjfr
+
+[D:/Source Code/Udemy/Y_eCommerce/YeShopWebClient/YeComWebClient/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-58dgxnc9xf

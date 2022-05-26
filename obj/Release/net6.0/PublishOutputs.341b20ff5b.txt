@@ -1,0 +1,1 @@
+D:\Source Code\Udemy\Y_eCommerce\YeShopWebClient\YeComWebClient\obj\Release\net6.0\browser-wasm\PubTmp\Out\web.config
